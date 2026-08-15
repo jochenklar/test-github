@@ -1,0 +1,229 @@
+What is the main research question of the project?;;RDMO II baut auf den Ergebnissen des Vorgängerprojektes FDMP-Werkzeug (RDMO) auf, das mit dem Research Data Management Organiser (RDMO) ein Werkzeug zur Unterstützung des Forschungsdatenmanagements entwickelt hat. RDMO wird es Projekten ermöglichen, das Datenmanagement über den gesamten Projektverlauf - d.h. von der Antragstellung bis zum Ende - zu organisieren und nach Bedarf anzupassen. Zum Ende des Projektes FDMP-Werkzeug wurde eine Version veröffentlicht, die hierfür bereits ein Minimal-Set an Funktionalitäten enthält, das vor allem die Planung des Datenmanagements vor dem Projektstart unterstützt. Ziel von RDMO II ist es, das Werkzeug bis zum Erreichen des vollständig notwendigen Funktionsumfangs weiterzuentwickeln und bis zur Produktionsreife zu bringen, wobei der Fokus im beantragten Nachfolgeprojekt auf der Organisation und Umsetzung des Datenmanagements (v.a. der Aufgabenverwaltung) während des Projekts liegen wird. Darüber hinaus gehört zu den Zielen, die Integration in die lokale Infrastruktur in unterschiedlichen fachlichen und institutionellen Kontexten zu vereinfachen, die Anbindung an überregionale Infrastrukturelemente (z.B. re3data) zu ermöglichen sowie das Tool in der Community zu etablieren. Ein wichtiger Aspekt unter dem Gesichtspunkt der Nachhaltigkeit ist die Etablierung einer Community, die das Tool betreibt und auch nach Ende des Projektes RDMO II technisch wie auch konzeptionell (Anpassung des Fragenkataloges an unterschiedliche disziplinspezifische und institutionelle Kontexte) weiterentwickelt. Daraus ergeben sich eine Reihe von Teilforschungs- (& Entwicklungs)fragen: Welche Features und Funktionalitäten sind (sowohl insgesamt als auch für die einzelnen Stakeholder) notwendig, um das Planung, Organisation und Anpassung des Datenmanagements im gesamten Projektverlauf optimal zu unterstützen und wie lassen sich diese konzeptionell und technisch umsetzen? Welche Anforderungen in Bezug auf die Implementierung / Integration in lokale sowie überregionale Infrastrukturen gibt es und wie lassen sich diese konzeptionell und technisch umsetzen? Was sind geeignete Kommunikationsstrukturen, öffentlichkeitswirksame Maßnahmen sowie Schulungsmaßnahmen und -materialien, um das Tool einerseits in der Community zu etablieren, andererseits eine Community zur Sicherung der Nachhaltigkeit des Tools zu schaffen und wie lassen sie sich am effizientesten umsetzen.
+Please give some keywords describing the research question.;;"Forschungsdatenmanagement; Datenmanagement; Datenmanagementplan; active DMP; Werkzeug"
+To which discipline / disciplines is the project assigned?;;"Humanities and Social Sciences / Fine Arts, Music, Theatre and Media Studies; Life Sciences / Basic Biological and Medical Research; Natural Sciences / Astrophysics and Astronomy; Engineering Sciences / Computer Science"
+When does the project start?;;2017-05-01
+When does the project end?;;2019-10-31
+Which persons or institutions are responsible for the project coordination?;;"Heike Neuroth, FH Potsdam; Harry Enke, AIP Potsdam"
+Who is/are your project partner(s)?;"Project Partner ""AIP""";Leibniz-Institut für Astrophysik Potsdam (AIP)
+Who is/are your project partner(s)?;"Project Partner ""FHP""";Fachhochschule Potsdam (FHP), Institut für Informationswissenschaften
+Does your institution have rules or guidelines for the handling of research data collected in the project? If so, briefly outline them and refer to further information if necessary. Please also indicate how binding they are.;"Project Partner ""AIP""";nein
+Does your institution have rules or guidelines for the handling of research data collected in the project? If so, briefly outline them and refer to further information if necessary. Please also indicate how binding they are.;"Project Partner ""FHP""";nein
+Who is the data management contact for this project partner?;"Project Partner ""AIP""";"Harry Enke; Jochen Klar <jklar@aip.de>"
+Who is the data management contact for this project partner?;"Project Partner ""FHP""";Heike Neuroth
+Who is funding the project?;"Funder ""DFG""";Deutsche Forschungsgemeinschaft
+Under which funding line and/or programme is the project funded?;"Funder ""DFG""";LIS
+Does the research funding organisation have any specifications or guidelines regarding the handling of research data collected in the project? If so, please briefly outline them and refer to further information if necessary. Please also indicate the extent to which they are binding.;"Funder ""DFG""";DFG-Empfehlungen zur Sicherung guter wissenschaftlicher Praxis (http://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/download/empfehlung_wiss_praxis_1310.pdf) DFG-Richtlinien zum Forschungsdatenmanagement (http://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf)
+Are there other data management requirements (e.g. from the scientific community) that need to be considered?;;No
+What kind of data set is it?;"Data Set ""Anforderungen_FDMP""";Protokollnotizen und Materialien von ExpertInnengesprächen und Workshop-Diskussionen, z.T. auch Emails, zur Erhebung von Anforderungen und Evaluierung des Tools.
+What kind of data set is it?;"Data Set ""Anforderungen_RDMO""";Protokollnotizen und Materialien von ExpertInnengesprächen und Workshop-Diskussionen, z.T. auch Emails, zur Erhebung von Anforderungen und Evaluierung des Tools.
+What kind of data set is it?;"Data Set ""Sourcecode  and Dokumentation""";Es handelt sich hierbei um den Code des Research Data Management-Organisers (RDMO) in der Beta-Version (Stand zum Ende des Projektes FDMP-Werkzeug), einer auf dem Python-Framework Django und AngularJS basierenden Webanwendung, die sowohl zentral als auch lokal installiert und betrieben werden kann.
+Is the data set generated or reused?;"Data Set ""Anforderungen_FDMP""";Reused
+Is the data set generated or reused?;"Data Set ""Anforderungen_RDMO""";Created
+Is the data set generated or reused?;"Data Set ""Sourcecode  and Dokumentation""";Reused
+If reused, who created the data set?;"Data Set ""Anforderungen_FDMP""";"Die Daten wurden im Vorgängerprojekt ""FDMP-Werkzeug"" von Claudia Engelhardt und Jochen Klar erhoben bzw. gesammelt."
+If reused, who created the data set?;"Data Set ""Anforderungen_RDMO""";
+If reused, who created the data set?;"Data Set ""Sourcecode  and Dokumentation""";Der Code wurde im Projekt FDMP-Werkzeug von Jochen Klar entwickelt.
+If reused, at what address, PID or URL is the data set available?;"Data Set ""Anforderungen_FDMP""";derzeit nicht online verfügbar
+If reused, at what address, PID or URL is the data set available?;"Data Set ""Anforderungen_RDMO""";
+If reused, at what address, PID or URL is the data set available?;"Data Set ""Sourcecode  and Dokumentation""";https://github.com/rdmorganiser/rdmo
+Who might be interested in this data set (for reuse)? What are the implications of the potential for reuse for the provision of the data?;"Data Set ""Anforderungen_FDMP""";Für Personen, Arbeitsgruppen, Forschungseinrichtungen und Infrastrukturanbieter, die sich mit der Entwicklung und Bereitstellung von Werkzeugen für das Forschungsdatenmanagement befassen.
+Who might be interested in this data set (for reuse)? What are the implications of the potential for reuse for the provision of the data?;"Data Set ""Anforderungen_RDMO""";Für Personen, Arbeitsgruppen, Forschungseinrichtungen und Infrastrukturanbieter, die sich mit der Entwicklung und Bereitstellung von Werkzeugen für das Forschungsdatenmanagement befassen.
+Who might be interested in this data set (for reuse)? What are the implications of the potential for reuse for the provision of the data?;"Data Set ""Sourcecode  and Dokumentation""";Für Personen, Forschungseinrichtungen (bzw. Infrastrukturanbieter , die Forschungsvorhaben und -projekte haben, in denen Forschungsdaten anfallen und die für ihre Wissenschaftlerinnen und Wissenschaftler ein Werkzeug bereitstellen wollen, das sie bei der Planung, Organisation und Anpassung des Datenmanagements unterstützt.
+Is the data set reproducible, i.e. could it be re-created or recovered if it were lost?;"Data Set ""Anforderungen_FDMP""";No, or only at disproportionate cost or effort
+Is the data set reproducible, i.e. could it be re-created or recovered if it were lost?;"Data Set ""Anforderungen_RDMO""";No, or only at disproportionate cost or effort
+Is the data set reproducible, i.e. could it be re-created or recovered if it were lost?;"Data Set ""Sourcecode  and Dokumentation""";No, or only at disproportionate cost or effort
+When does the collection or generation of data begin?;"Data Set ""Anforderungen_FDMP""";"2015-04-01; "
+When does the collection or generation of data begin?;"Data Set ""Anforderungen_RDMO""";"2015-04-01; "
+When does the collection or generation of data begin?;"Data Set ""Sourcecode  and Dokumentation""";2015-04-01
+When does the collection or generation of data end?;"Data Set ""Anforderungen_FDMP""";"2017-03-31; 2017-03-31"
+When does the collection or generation of data end?;"Data Set ""Anforderungen_RDMO""";"; "
+When does the collection or generation of data end?;"Data Set ""Sourcecode  and Dokumentation""";
+When does the data cleansing/preparation start?;"Data Set ""Anforderungen_FDMP""";"2015-07-01; 2015-07-01"
+When does the data cleansing/preparation start?;"Data Set ""Anforderungen_RDMO""";"; 2017-07-03"
+When does the data cleansing/preparation start?;"Data Set ""Sourcecode  and Dokumentation""";2015-04-01
+When does the data cleansing/preparation end?;"Data Set ""Anforderungen_FDMP""";"2017-03-31; 2017-03-31"
+When does the data cleansing/preparation end?;"Data Set ""Anforderungen_RDMO""";"; "
+When does the data cleansing/preparation end?;"Data Set ""Sourcecode  and Dokumentation""";
+When does the data analysis start?;"Data Set ""Anforderungen_FDMP""";"2015-07-01; 2015-07-01"
+When does the data analysis start?;"Data Set ""Anforderungen_RDMO""";"; "
+When does the data analysis start?;"Data Set ""Sourcecode  and Dokumentation""";
+When does the data analysis end?;"Data Set ""Anforderungen_FDMP""";"2017-03-31; 2017-03-31"
+When does the data analysis end?;"Data Set ""Anforderungen_RDMO""";"; "
+When does the data analysis end?;"Data Set ""Sourcecode  and Dokumentation""";
+What is the size of the data set?;"Data Set ""Anforderungen_FDMP""";
+What is the size of the data set?;"Data Set ""Anforderungen_RDMO""";
+What is the size of the data set?;"Data Set ""Sourcecode  and Dokumentation""";Less than 1 GB
+How much data are produced per year?;"Data Set ""Anforderungen_FDMP""";
+How much data are produced per year?;"Data Set ""Anforderungen_RDMO""";
+How much data are produced per year?;"Data Set ""Sourcecode  and Dokumentation""";
+What file formats are used?;"Data Set ""Anforderungen_FDMP""";docx und pdf XML, HTML text format for readme, protocols etc.
+What file formats are used?;"Data Set ""Anforderungen_RDMO""";docx und pdf XML, HTML text format for readme, protocols etc.
+What file formats are used?;"Data Set ""Sourcecode  and Dokumentation""";text formats for readme, protocols, source code
+Which tools, software, technologies or processes are used to generate or collect the data?;"Data Set ""Anforderungen_FDMP""";Textverarbeitungsprogramm (in dem Fall MS Word) Presentations (keyNote, MS PowerPoint)
+Which tools, software, technologies or processes are used to generate or collect the data?;"Data Set ""Anforderungen_RDMO""";Textverarbeitungsprogramm (in dem Fall MS Word) Presentations (keyNote, MS PowerPoint)
+Which tools, software, technologies or processes are used to generate or collect the data?;"Data Set ""Sourcecode  and Dokumentation""";Standard Software-Entwicklungswerkzeuge
+What software, processes or technologies are required to use the data?;"Data Set ""Anforderungen_FDMP""";Textverarbeitungsprogramm oder PDF-Viewer (wenn die Nutzung sich auf das Anschauen beschränkt)
+What software, processes or technologies are required to use the data?;"Data Set ""Anforderungen_RDMO""";Textverarbeitungsprogramm oder PDF-Viewer (wenn die Nutzung sich auf das Anschauen beschränkt)
+What software, processes or technologies are required to use the data?;"Data Set ""Sourcecode  and Dokumentation""";Linux, Windows, oder OSX Systeme mit Python 2.7+ oder 3.4+.
+Is documentation about relevant software needed to use the data?;"Data Set ""Anforderungen_FDMP""";
+Is documentation about relevant software needed to use the data?;"Data Set ""Anforderungen_RDMO""";
+Is documentation about relevant software needed to use the data?;"Data Set ""Sourcecode  and Dokumentation""";Yes
+Are different versions of the data set created?;"Data Set ""Anforderungen_FDMP""";No
+Are different versions of the data set created?;"Data Set ""Anforderungen_RDMO""";Yes
+Are different versions of the data set created?;"Data Set ""Sourcecode  and Dokumentation""";Yes
+What versioning strategy is used for this data set?;"Data Set ""Anforderungen_FDMP""";final versions of docs are available as PDF.
+What versioning strategy is used for this data set?;"Data Set ""Anforderungen_RDMO""";neue Version immer dann, wenn sich wesentliche inhaltliche Änderungen ergeben final versions of docs are available as PDF.
+What versioning strategy is used for this data set?;"Data Set ""Sourcecode  and Dokumentation""";Versionen werden wärende des Entwicklungsprozesses in kurzen Intervallen erzeugt. Branches werden für neue Features erzeugt und über Pull-Requests gemerged. Releases werden nach Semantic Versioning (semver.org) erzeugt.
+What technology or tool is used for versioning?;"Data Set ""Anforderungen_FDMP""";Other: internal versions, final doc
+What technology or tool is used for versioning?;"Data Set ""Anforderungen_RDMO""";Other: internal versions, final doc
+What technology or tool is used for versioning?;"Data Set ""Sourcecode  and Dokumentation""";Version control system (e.g., Git, SVN): git
+What will this data set be used for/how will it be used during the project?;"Data Set ""Anforderungen_FDMP""";Als Referenz bezüglich der Anforderungen der verschiedenen Stakeholder an das Tool, insbesondere solcher, die im FDMP-Projekt noch nicht oder nicht vollständig umgesetzt werden konnten.
+What will this data set be used for/how will it be used during the project?;"Data Set ""Anforderungen_RDMO""";Um die inhaltlichen und technischen Anforderungen der verschiedenen Stakeholder an das Tool zu dokumentieren, strukturieren und analysieren.
+What will this data set be used for/how will it be used during the project?;"Data Set ""Sourcecode  and Dokumentation""";Entwicklung des RDMO
+How often will this data set be used?;"Data Set ""Anforderungen_FDMP""";ca. 1 Mal im Monat
+How often will this data set be used?;"Data Set ""Anforderungen_RDMO""";durchschnittlich ca. zwei Mal im Monat
+How often will this data set be used?;"Data Set ""Sourcecode  and Dokumentation""";täglich
+To what extent will infrastructure resources be required (e.g. CPU hours, bandwidth, storage space... etc.).;"Data Set ""Anforderungen_FDMP""";Infrastructure resources of the usual workplace equipment are sufficient
+To what extent will infrastructure resources be required (e.g. CPU hours, bandwidth, storage space... etc.).;"Data Set ""Anforderungen_RDMO""";Infrastructure resources of the usual workplace equipment are sufficient
+To what extent will infrastructure resources be required (e.g. CPU hours, bandwidth, storage space... etc.).;"Data Set ""Sourcecode  and Dokumentation""";Infrastructure resources of the usual workplace equipment are sufficient
+Are there actual or potential usage scenarios that could benefit from support by a data management or IT expert, or that even require such support?;"Data Set ""Anforderungen_FDMP""";nein
+Are there actual or potential usage scenarios that could benefit from support by a data management or IT expert, or that even require such support?;"Data Set ""Anforderungen_RDMO""";nein
+Are there actual or potential usage scenarios that could benefit from support by a data management or IT expert, or that even require such support?;"Data Set ""Sourcecode  and Dokumentation""";
+Where is the data set stored during the project?;"Data Set ""Anforderungen_FDMP""";In der institutionellen (ownCloud) des Partners AIP.
+Where is the data set stored during the project?;"Data Set ""Anforderungen_RDMO""";In der institutionellen (ownCloud) des Partners AIP.
+Where is the data set stored during the project?;"Data Set ""Sourcecode  and Dokumentation""";Auf github.com.
+Under which URL can the data set be accessed during the project?;"Data Set ""Anforderungen_FDMP""";
+Under which URL can the data set be accessed during the project?;"Data Set ""Anforderungen_RDMO""";
+Under which URL can the data set be accessed during the project?;"Data Set ""Sourcecode  and Dokumentation""";https://github.com/rdmorganiser/rdmo
+Are there internal project guidelines for consistent data organisation? If so, which and where are they documented?;"Data Set ""Anforderungen_FDMP""";muss noch definiert werden
+Are there internal project guidelines for consistent data organisation? If so, which and where are they documented?;"Data Set ""Anforderungen_RDMO""";muss noch definiert werden
+Are there internal project guidelines for consistent data organisation? If so, which and where are they documented?;"Data Set ""Sourcecode  and Dokumentation""";Die Softwareentwicklung orientiert sich am Coding-Style des Django Projektes (https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/).
+Is there an internal project guideline for naming the data? If so, please briefly outline the naming conventions and, if necessary, link to the documentation.;"Data Set ""Anforderungen_FDMP""";muss noch definiert werden
+Is there an internal project guideline for naming the data? If so, please briefly outline the naming conventions and, if necessary, link to the documentation.;"Data Set ""Anforderungen_RDMO""";muss noch definiert werden
+Is there an internal project guideline for naming the data? If so, please briefly outline the naming conventions and, if necessary, link to the documentation.;"Data Set ""Sourcecode  and Dokumentation""";Die Softwareentwicklung orientiert sich am Coding-Style des Django Projektes (https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/).
+Who can access the data set?;"Data Set ""Anforderungen_FDMP""";alle FDMP-Werkzeug-/RDMO-II-Projektmitglieder
+Who can access the data set?;"Data Set ""Anforderungen_RDMO""";alle FDMP-Werkzeug-/RDMO-II-Projektmitglieder
+Who can access the data set?;"Data Set ""Sourcecode  and Dokumentation""";jeder
+How and how often will the data be backed up?;"Data Set ""Anforderungen_FDMP""";(Input AIP)
+How and how often will the data be backed up?;"Data Set ""Anforderungen_RDMO""";(Input AIP)
+How and how often will the data be backed up?;"Data Set ""Sourcecode  and Dokumentation""";täglich
+Who is responsible for the backups?;"Data Set ""Anforderungen_FDMP""";(Input AIP)
+Who is responsible for the backups?;"Data Set ""Anforderungen_RDMO""";(Input AIP)
+Who is responsible for the backups?;"Data Set ""Sourcecode  and Dokumentation""";"Jochen Klar; Harry Enke"
+Is this data set interoperable, i.e. can it be shared and reused between researchers, institutions, organisations, countries, etc.?;"Data Set ""Anforderungen_FDMP""";"The data set adheres to standardised formats: doc, docx, pdf, txt; The data set is usable with available (open) software applications or software applications that are established and widely used in the respective community: MS Word und andere Textverarbeitungsprogramme, PDF-Viewer; The data set can easily be re-combined with different data sets from different origins"
+Is this data set interoperable, i.e. can it be shared and reused between researchers, institutions, organisations, countries, etc.?;"Data Set ""Anforderungen_RDMO""";"The data set adheres to standardised formats: doc, docx, pdf, txt; The data set is usable with available (open) software applications or software applications that are established and widely used in the respective community: MS Word und andere Textverarbeitungsprogrammen, PDF-Viewer; The data set can easily be re-combined with different data sets from different origins"
+Is this data set interoperable, i.e. can it be shared and reused between researchers, institutions, organisations, countries, etc.?;"Data Set ""Sourcecode  and Dokumentation""";"The data set adheres to standardised formats; The data set is usable with available (open) software applications or software applications that are established and widely used in the respective community; The data set can easily be re-combined with different data sets from different origins"
+Will this data set be published or shared?;"Data Set ""Anforderungen_FDMP""";No
+Will this data set be published or shared?;"Data Set ""Anforderungen_RDMO""";No
+Will this data set be published or shared?;"Data Set ""Sourcecode  and Dokumentation""";No
+If not, please give reasons for this and distinguish between legal and/or contractual reasons and voluntary restrictions.;"Data Set ""Anforderungen_FDMP""";
+If not, please give reasons for this and distinguish between legal and/or contractual reasons and voluntary restrictions.;"Data Set ""Anforderungen_RDMO""";Die Protokollnotizen werden nicht direkt veröffentlicht, dienen aber als Grundlage für Berichte über die untersuchten Themen (z.B. Bericht zu den Anforderungen, Workshopbericht etc.), sodass die entsprechenden Inhalte in aufbereiteter Form der Community zur Verfügung gestellt werden.
+If not, please give reasons for this and distinguish between legal and/or contractual reasons and voluntary restrictions.;"Data Set ""Sourcecode  and Dokumentation""";
+If so, under which terms of use or license is the data set published or shared?;"Data Set ""Anforderungen_FDMP""";Creative Commons Attribution (CC-BY)
+If so, under which terms of use or license is the data set published or shared?;"Data Set ""Anforderungen_RDMO""";Creative Commons Attribution (CC-BY)
+If so, under which terms of use or license is the data set published or shared?;"Data Set ""Sourcecode  and Dokumentation""";Creative Commons Attribution (CC-BY)
+If there are any restrictions on the reuse of this data set, please explain why.;"Data Set ""Anforderungen_FDMP""";Interviews, Requirement-Docs von Partnern und anderen, sofern diese als vertraulich zu behandeln vereinbart wurden.
+If there are any restrictions on the reuse of this data set, please explain why.;"Data Set ""Anforderungen_RDMO""";Interviews, Requirement-Docs von Partnern und anderen, sofern diese als vertraulich zu behandeln vereinbart wurden.
+If there are any restrictions on the reuse of this data set, please explain why.;"Data Set ""Sourcecode  and Dokumentation""";
+Will the data be collaboratively used?;"Data Set ""Anforderungen_FDMP""";Yes, by several persons at various institutions
+Will the data be collaboratively used?;"Data Set ""Anforderungen_RDMO""";Yes, by several persons at various institutions
+Will the data be collaboratively used?;"Data Set ""Sourcecode  and Dokumentation""";Yes, by several persons at various institutions
+Which platform / tools is / are used for collaboratively working on data and publications?;"Data Set ""Anforderungen_FDMP""";ownCloud, Google Docs
+Which platform / tools is / are used for collaboratively working on data and publications?;"Data Set ""Anforderungen_RDMO""";ownCloud, Google Docs
+Which platform / tools is / are used for collaboratively working on data and publications?;"Data Set ""Sourcecode  and Dokumentation""";git, github.com
+How is the collaborative work on the same files organised?;"Data Set ""Anforderungen_FDMP""";fallweise Vereinbarung
+How is the collaborative work on the same files organised?;"Data Set ""Anforderungen_RDMO""";fallweise Vereinbarung
+How is the collaborative work on the same files organised?;"Data Set ""Sourcecode  and Dokumentation""";nach dem üblichen git-Workflow
+What quality assurance measures are in place for this data set?;"Data Set ""Anforderungen_FDMP""";Verifikation mit Partnern und Anwendern
+What quality assurance measures are in place for this data set?;"Data Set ""Anforderungen_RDMO""";Verifikation mit Partnern und Anwendern
+What quality assurance measures are in place for this data set?;"Data Set ""Sourcecode  and Dokumentation""";Automatisierte Tests über travis-ci
+Is integration between reused and newly created data ensured? If so, how?;;Interviews, Requirement-Docs sind episodisch.
+What data management staff costs will be incurred as part of the collection, creation or acquisition of data in the project?;;0.216 PM
+What personnel costs are incurred for data management in connection with the use of the data in the project?;;0.168 PM
+What material costs for data management arise in connection with the use of the data in the project?;;0 Euro
+What personnel costs are incurred in connection with data storage and data security measures during the project?;;0.468 PM
+What material costs are incurred in connection with the storage of data records during the project?;;100 Euro
+What information is necessary for others to understand and reuse the data (i.e., to understand its collection or creation, analysis, and research results based on it)?;"Data Set ""Anforderungen_FDMP""";"Location; Content; Methodology; Creation process; Technology; Time; Source/Origin"
+What information is necessary for others to understand and reuse the data (i.e., to understand its collection or creation, analysis, and research results based on it)?;"Data Set ""Anforderungen_RDMO""";"Location; Content; Methodology; Creation process; Technology; Time; Source/Origin; Agents"
+What information is necessary for others to understand and reuse the data (i.e., to understand its collection or creation, analysis, and research results based on it)?;"Data Set ""Sourcecode  and Dokumentation""";"Technology; Documentation of the software required to use the data"
+What standards, ontologies, classifications, etc. are used to describe the data and contextual information?;"Data Set ""Anforderungen_RDMO""";Other
+If it is unavoidable to use project-specific or rare ontologies, metadata schemas or vocabularies, are mappings to common ontologies etc. created?;"Data Set ""Anforderungen_FDMP""";Yes
+If it is unavoidable to use project-specific or rare ontologies, metadata schemas or vocabularies, are mappings to common ontologies etc. created?;"Data Set ""Anforderungen_RDMO""";
+If it is unavoidable to use project-specific or rare ontologies, metadata schemas or vocabularies, are mappings to common ontologies etc. created?;"Data Set ""Sourcecode  and Dokumentation""";
+What metadata is collected automatically?;"Data Set ""Anforderungen_FDMP""";keine
+What metadata is collected automatically?;"Data Set ""Anforderungen_RDMO""";keine
+What metadata is collected automatically?;"Data Set ""Sourcecode  and Dokumentation""";
+Which metadata are collected semi-automatically?;"Data Set ""Anforderungen_FDMP""";keine
+Which metadata are collected semi-automatically?;"Data Set ""Anforderungen_RDMO""";keine
+Which metadata are collected semi-automatically?;"Data Set ""Sourcecode  and Dokumentation""";
+Which metadata are collected manually?;"Data Set ""Anforderungen_FDMP""";alle
+Which metadata are collected manually?;"Data Set ""Anforderungen_RDMO""";alle
+Which metadata are collected manually?;"Data Set ""Sourcecode  and Dokumentation""";
+Are metadata and contextual information checked for correctness and completeness?;"Data Set ""Anforderungen_FDMP""";"Manual check for correctness; Manual check for completeness"
+Are metadata and contextual information checked for correctness and completeness?;"Data Set ""Anforderungen_RDMO""";"Manual check for correctness; Manual check for completeness"
+Are metadata and contextual information checked for correctness and completeness?;"Data Set ""Sourcecode  and Dokumentation""";"Manual check for correctness; Manual check for completeness"
+Who is responsible for documenting and checking the metadata and contextual information for accuracy and completeness?;"Data Set ""Anforderungen_FDMP""";Projekt-Mitarbeiter
+Who is responsible for documenting and checking the metadata and contextual information for accuracy and completeness?;"Data Set ""Anforderungen_RDMO""";Projekt-Mitarbeiter
+Who is responsible for documenting and checking the metadata and contextual information for accuracy and completeness?;"Data Set ""Sourcecode  and Dokumentation""";Projekt-Entwickler
+What personnel costs are incurred in connection with the creation of metadata and contextual information in the project?;;0.084 PM
+What material costs or non-personnel costs are incurred in connection with the creation of metadata and contextual information in the project?;;0 Euro
+Please briefly explain the structure and the relationship between your data:;"Data Set ""Anforderungen_FDMP""";Es gibt pro Erhebungssituation bzw. Informationsquelle (also pro ExpertInnengespräch, Workshop-Diskussion, E-Mail mit Rückmeldung nach individuellem Test des Tools) ein Textdokument. Dieses enthält die wichtigsten Eck-/Metadaten (wann, wo, wer, was) und protokollarische Notizen zum Verlauf und den Ergebnissen des Gesprächs bzw. den Rückmeldungen von Testenden.
+Please briefly explain the structure and the relationship between your data:;"Data Set ""Anforderungen_RDMO""";Pro Erhebungssituation bzw. Informationsquelle (also pro ExpertInnengespräch, Workshop-Diskussion, E-Mail mit Rückmeldung nach individuellem Test des Tools) wird ein Textdokument erstellt. In diesem weren die wichtigsten Eck-/Metadaten (wann, wo, wer, was) und protokollarische Notizen zum Verlauf und den Ergebnissen des Gesprächs bzw. den Rückmeldungen von Testenden festgehalten.
+Please briefly explain the structure and the relationship between your data:;"Data Set ""Sourcecode  and Dokumentation""";
+Are persistent identifiers (PIDs) used for this data set?;"Data Set ""Anforderungen_FDMP""";
+Are persistent identifiers (PIDs) used for this data set?;"Data Set ""Anforderungen_RDMO""";
+What system of persistent identifiers is used?;"Data Set ""Anforderungen_FDMP""";
+What system of persistent identifiers is used?;"Data Set ""Anforderungen_RDMO""";
+Which sub-units / partial data sets should be given their own identifiers? Which of these identifiers are permanent and citable?;"Data Set ""Anforderungen_FDMP""";
+Which sub-units / partial data sets should be given their own identifiers? Which of these identifiers are permanent and citable?;"Data Set ""Anforderungen_RDMO""";
+Who is responsible for the maintenance of the PIDs and the object maintenance (i.e. the long-term archiving of the object and thus for informing the PID service of an object move and the new address)?;"Data Set ""Anforderungen_FDMP""";
+Who is responsible for the maintenance of the PIDs and the object maintenance (i.e. the long-term archiving of the object and thus for informing the PID service of an object move and the new address)?;"Data Set ""Anforderungen_RDMO""";
+What are the personnel costs associated with using persistent identifiers in the project?;;0 PM
+What non-personnel or material costs are incurred in connection with persistent identifiers in the project?;;0 Euro
+Does the legal situation of different countries have to be considered?;;Yes
+Does this data set contain personal data?;"Data Set ""Anforderungen_FDMP""";Yes
+Does this data set contain personal data?;"Data Set ""Anforderungen_RDMO""";No
+Does this data set contain personal data?;"Data Set ""Sourcecode  and Dokumentation""";"No; "
+Does this data set contain non-personal sensitive data?;"Data Set ""Anforderungen_FDMP""";No
+Does this data set contain non-personal sensitive data?;"Data Set ""Anforderungen_RDMO""";No
+Does this data set contain non-personal sensitive data?;"Data Set ""Sourcecode  and Dokumentation""";No
+Has the research project been reviewed by an ethics committee?;;No, a review is not necessary, because: das Projekt weder sensible Daten erhebt oder verarbeitet noch sich ethisch heiklen Fragestellungen widmet.
+Is a legal approval / permit needed for the research?;;No
+If so, which permit?;;
+If so, who is the issuing agency?;;
+Is a data access committee required to decide whether or not to grant access to data published by the project in response to access requests?;;No
+Is data used and/or created that is protected by copyright or related rights?;;Yes
+What criteria/rules are used to select data for archiving (after the end of the project)?;;noch zu definieren
+By whom is the selection made?;;"Heike Neuroth; Harry Enke"
+Does this data set have to be preserved for the long-term?;"Data Set ""Anforderungen_FDMP""";
+Does this data set have to be preserved for the long-term?;"Data Set ""Anforderungen_RDMO""";Yes
+Does this data set have to be preserved for the long-term?;"Data Set ""Sourcecode  and Dokumentation""";Yes
+What are the reasons for this data set to be preserved for the long-term?;"Data Set ""Anforderungen_RDMO""";"Basis of a publication / proof of good scientific practice; Re-use in subsequent projects or by others"
+What are the reasons for this data set to be preserved for the long-term?;"Data Set ""Sourcecode  and Dokumentation""";Self-commitment
+How long must the data be stored?;"Data Set ""Anforderungen_FDMP""";
+How long must the data be stored?;"Data Set ""Anforderungen_RDMO""";mindestens 10 Jahre
+How long must the data be stored?;"Data Set ""Sourcecode  and Dokumentation""";
+How long should the data be (re)usable after the end of the project?;"Data Set ""Anforderungen_FDMP""";
+How long should the data be (re)usable after the end of the project?;"Data Set ""Anforderungen_RDMO""";mindestens 10 Jahre
+How long should the data be (re)usable after the end of the project?;"Data Set ""Sourcecode  and Dokumentation""";10 Jahre (mind.)
+Where will the data (including metadata, documentation and any relevant code or software) be stored or archived after the project is completed?;"Data Set ""Anforderungen_FDMP""";Own institution
+Where will the data (including metadata, documentation and any relevant code or software) be stored or archived after the project is completed?;"Data Set ""Anforderungen_RDMO""";To be decided
+Where will the data (including metadata, documentation and any relevant code or software) be stored or archived after the project is completed?;"Data Set ""Sourcecode  and Dokumentation""";Own institution
+Is the repository or data centre chosen certified (e.g. Data Seal of Approval, nestor Seal or ISO 16363)?;"Data Set ""Anforderungen_FDMP""";
+Is the repository or data centre chosen certified (e.g. Data Seal of Approval, nestor Seal or ISO 16363)?;"Data Set ""Anforderungen_RDMO""";
+Is the repository or data centre chosen certified (e.g. Data Seal of Approval, nestor Seal or ISO 16363)?;"Data Set ""Sourcecode  and Dokumentation""";
+Have appropriate archiving solutions already been discussed with the repository or data centre?;"Data Set ""Anforderungen_FDMP""";
+Have appropriate archiving solutions already been discussed with the repository or data centre?;"Data Set ""Anforderungen_RDMO""";
+Have appropriate archiving solutions already been discussed with the repository or data centre?;"Data Set ""Sourcecode  and Dokumentation""";
+Shall the data only be made accessible after an embargo period has expired?;"Data Set ""Anforderungen_FDMP""";nein
+Shall the data only be made accessible after an embargo period has expired?;"Data Set ""Anforderungen_RDMO""";nein
+Shall the data only be made accessible after an embargo period has expired?;"Data Set ""Sourcecode  and Dokumentation""";nein
+How is the identity of persons accessing the data verified?;"Data Set ""Anforderungen_FDMP""";tbd.
+How is the identity of persons accessing the data verified?;"Data Set ""Anforderungen_RDMO""";noch zu klären
+How is the identity of persons accessing the data verified?;"Data Set ""Sourcecode  and Dokumentation""";
+When will the data be archived?;"Data Set ""Anforderungen_FDMP""";2019-10-31
+When will the data be archived?;"Data Set ""Anforderungen_RDMO""";
+When will the data be archived?;"Data Set ""Sourcecode  and Dokumentation""";
+What personnel costs are incurred in connection with long-term archiving for this project?;;0.1 PM
+How will the data management costs of the project be covered?;;noch zu klären, institutionelle Übernahme
+What material costs are incurred in connection with long-term archiving for this project?;;0 Euro
